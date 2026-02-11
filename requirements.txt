@@ -1,0 +1,8 @@
+requests
+pandas
+numpy
+scikit-learn
+rdkit
+matplotlib
+jupyter
+pytest
